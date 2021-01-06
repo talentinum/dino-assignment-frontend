@@ -23,7 +23,7 @@
     "@types/webpack": "^4.41.13",
     "@types/webpack-dev-server": "^3.10.1",
     "autosize": "^4.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "^8.1.0",
     "babel-plugin-styled-components": "^1.10.7",
     "classnames": "^2.2.6",
